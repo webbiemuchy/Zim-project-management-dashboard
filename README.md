@@ -1,2 +1,17 @@
-# Zim-project-management-dashboard
-A responsive project management dashboard specifically designed for tracking development projects in Zimbabwe. Features include project progress tracking, budget management, team collaboration, and risk assessment with a Zimbabwean context.
+# ZimProjects Management Dashboard
+
+A project management dashboard tailored for Zimbabwe development projects.
+
+## Features
+
+- Project overview and tracking
+- Budget management
+- Team collaboration
+- Milestone tracking
+- Risk assessment
+
+## Setup
+
+1. Install dependencies:
+```bash
+npm install
